@@ -123,7 +123,6 @@
     			<configuration>
         			<includes>
             			<include>**/*.class</include>
-            			<include>**/*.ftl</include>
             			<include>**/*.properties</include>
             			<include>**/*.xml</include>
 				<include>**/*.css</include>
