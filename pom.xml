@@ -6,7 +6,7 @@
 	<artifactId>TrunkApp</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>WebApp Maven</name>
+	<name>TrunkApp Maven</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<jdk.version>1.7</jdk.version>
@@ -125,7 +125,7 @@
             			<include>**/*.class</include>
             			<include>**/*.properties</include>
             			<include>**/*.xml</include>
-				<include>**/*.css</include>
+				        <include>**/*.css</include>
         			</includes>
     			</configuration>
 			</plugin>
